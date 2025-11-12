@@ -1,1 +1,0 @@
-# parkinson-ai-detector
